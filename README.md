@@ -16,12 +16,12 @@
   Demo: https://swiperjs.com/demos/230-effect-cube.html<br><br>
   
 * 3D Flip Effect<br>
-  Source Code: https://github.com/nolimits4web/Swiper/blob/master/demos/250-effect-flip.html
-  Demo: https://swiperjs.com/demos/250-effect-flip.html
+  Source Code: https://github.com/nolimits4web/Swiper/blob/master/demos/250-effect-flip.html<br>
+  Demo: https://swiperjs.com/demos/250-effect-flip.html<br>
 
 * Mousewhell Control
-  Source Code: https://github.com/nolimits4web/Swiper/blob/master/demos/270-mousewheel-control.html
-  Demo: https://swiperjs.com/demos/270-mousewheel-control.html
+  Source Code: https://github.com/nolimits4web/Swiper/blob/master/demos/270-mousewheel-control.html<br>
+  Demo: https://swiperjs.com/demos/270-mousewheel-control.html<br>
 
 
 https://swiperjs.com/
