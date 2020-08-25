@@ -11,8 +11,8 @@
   [Demo](https://swiperjs.com/demos/230-effect-cube.html)
 
 * Progress Pagination<br>
-  Source Code:<br>  https://github.com/nolimits4web/Swiper/blob/master/demos/050-pagination-progress.html<br>
-  Demo: https://swiperjs.com/demos/230-effect-cube.html<br>
+  [Source](https://github.com/nolimits4web/Swiper/blob/master/demos/050-pagination-progress.html)<br>
+  [Demo](https://swiperjs.com/demos/230-effect-cube.html)<br>
   
 * 3D Flip Effect<br>
   Source Code: https://github.com/nolimits4web/Swiper/blob/master/demos/250-effect-flip.html<br>
