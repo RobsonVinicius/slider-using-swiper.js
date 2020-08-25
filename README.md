@@ -10,7 +10,6 @@
   Source Code: https://github.com/nolimits4web/Swiper/blob/master/demos/230-effect-cube.html<br>
   Demo: https://github.com/nolimits4web/Swiper/blob/master/demos/230-effect-cube.html
 
-
 * Progress Pagination<br>
   Source Code:<br>  https://github.com/nolimits4web/Swiper/blob/master/demos/050-pagination-progress.html<br>
   Demo: https://swiperjs.com/demos/230-effect-cube.html<br><br>
@@ -22,6 +21,14 @@
 * Mousewhell Control<br>
   Source Code: https://github.com/nolimits4web/Swiper/blob/master/demos/270-mousewheel-control.html<br>
   Demo: https://swiperjs.com/demos/270-mousewheel-control.html<br>
+  
+ * Thumbs Gallery 
+  Source Code: https://github.com/nolimits4web/Swiper/blob/master/demos/300-thumbs-gallery.html
+  Demo: https://swiperjs.com/demos/300-thumbs-gallery.html
+  
+ * Parallax
+  Source Code: https://github.com/nolimits4web/Swiper/blob/master/demos/360-parallax.html
+  Demo: https://swiperjs.com/demos/360-parallax.html
 
 
 https://swiperjs.com/
