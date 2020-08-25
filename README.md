@@ -22,11 +22,11 @@
   [Source](https://github.com/nolimits4web/Swiper/blob/master/demos/270-mousewheel-control.html)<br>
   [Demo](https://swiperjs.com/demos/270-mousewheel-control.html)<br>
 
- * Thumbs Gallery 
+ * Thumbs Gallery <br>
    [Source](https://github.com/nolimits4web/Swiper/blob/master/demos/300-thumbs-gallery.html)<br>
    [Demo](https://swiperjs.com/demos/300-thumbs-gallery.html)<br>
   
- * Parallax
+ * Parallax<br>
    [Source](https://github.com/nolimits4web/Swiper/blob/master/demos/360-parallax.html)<br>
    [Demo](https://swiperjs.com/demos/360-parallax.html)<br>
 
