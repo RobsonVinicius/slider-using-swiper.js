@@ -7,22 +7,22 @@
 
 ### Outros Slides Interessantes para explorar
 
-- [Swiper.js](https://swiperjs.com/)<br>
+- [Swiper.js](https://swiperjs.com/)
   - 3D Cube Effect | 
   [Source Code](https://github.com/nolimits4web/Swiper/blob/master/demos/230-effect-cube.html) |
   [Demo](https://swiperjs.com/demos/230-effect-cube.html)
   
   - Progress Pagination |
   [Source](https://github.com/nolimits4web/Swiper/blob/master/demos/050-pagination-progress.html) |
-  [Demo](https://swiperjs.com/demos/050-pagination-progress.html)<br>
+  [Demo](https://swiperjs.com/demos/050-pagination-progress.html)
   
-* 3D Flip Effect<br>
-  [Source](https://github.com/nolimits4web/Swiper/blob/master/demos/250-effect-flip.html)<br>
-  [Demo](https://swiperjs.com/demos/250-effect-flip.html)<br>
+  - 3D Flip Effect |
+  [Source](https://github.com/nolimits4web/Swiper/blob/master/demos/250-effect-flip.html) |
+  [Demo](https://swiperjs.com/demos/250-effect-flip.html)
   
-* Mousewhell Control<br>
-  [Source](https://github.com/nolimits4web/Swiper/blob/master/demos/270-mousewheel-control.html)<br>
-  [Demo](https://swiperjs.com/demos/270-mousewheel-control.html)<br>
+  - Mousewhell Control |
+  [Source](https://github.com/nolimits4web/Swiper/blob/master/demos/270-mousewheel-control.html) |
+  [Demo](https://swiperjs.com/demos/270-mousewheel-control.html)
 
  * Thumbs Gallery <br>
    [Source](https://github.com/nolimits4web/Swiper/blob/master/demos/300-thumbs-gallery.html)<br>
