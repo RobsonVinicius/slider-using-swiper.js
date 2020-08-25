@@ -11,6 +11,10 @@ var swiper = new Swiper('.swiper-container', {
     slideShadows: true,
   },
   loop: true,
+  autoplay: {
+    delay: 1500,
+    disableOnInteraction: false,
+  },
   pagination: {
     el: '.swiper-pagination',
   },
