@@ -6,9 +6,9 @@
 * autoplay: delay 1500
 
 ### Outros Slides Interessantes para explorar
-* 3D Cube Effect<br>
-  [Source Code](https://github.com/nolimits4web/Swiper/blob/master/demos/230-effect-cube.html)<br>
-  [Demo](https://swiperjs.com/demos/230-effect-cube.html)
+
+- [Source](https://github.com/nolimits4web/Swiper/blob/master/demos/050-pagination-progress.html)<br>
+  - 3D Cube Effect | [Source Code](https://github.com/nolimits4web/Swiper/blob/master/demos/230-effect-cube.html) | [Demo](https://swiperjs.com/demos/230-effect-cube.html)
 
 * Progress Pagination<br>
   [Source](https://github.com/nolimits4web/Swiper/blob/master/demos/050-pagination-progress.html)<br>
