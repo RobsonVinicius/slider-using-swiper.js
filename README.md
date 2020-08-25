@@ -31,4 +31,4 @@
   Demo: https://swiperjs.com/demos/360-parallax.html
 
 
-https://swiperjs.com/
+Source: https://swiperjs.com/
