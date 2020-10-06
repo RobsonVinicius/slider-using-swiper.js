@@ -1,4 +1,8 @@
 ﻿## Slider Using HTML, CSS & Swiper.js
+ 
+ 
+ img/header-readme.png
+ 
 
 ### 3D Coverflow Effect 
 * rotate: 30 ou menos - para evitar distorções com muitas imagens
