@@ -1,10 +1,10 @@
 ﻿## Slider Using HTML, CSS & Swiper.js
  
- 
- img/header-readme.png
- 
+ ![Slider Demo]( img/header-readme.png)
+  
+<br> 
 
-### 3D Coverflow Effect 
+### Utilizado o 3D Coverflow Effect 
 * rotate: 30 ou menos - para evitar distorções com muitas imagens
 * loop: true
 * autoplay: delay 1500
