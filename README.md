@@ -1,5 +1,7 @@
 ﻿## Slider Using HTML, CSS & Swiper.js
  
+ Slider das capas dos discos da banda Iron Maiden criado com Swiper.js 
+ 
  ![Slider Demo]( img/header-readme.png)
   
 <br> 
