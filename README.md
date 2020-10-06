@@ -2,6 +2,8 @@
  
  Slider das capas dos discos da banda Iron Maiden criado com Swiper.js 
  
+ <br>
+ 
  ![Slider Demo]( img/header-readme.png)
   
 <br> 
