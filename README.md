@@ -9,6 +9,8 @@
 * loop: true
 * autoplay: delay 1500
 
+<br>
+
 ### Outros Slides Interessantes para explorar
 
 - [Swiper.js](https://swiperjs.com/)
