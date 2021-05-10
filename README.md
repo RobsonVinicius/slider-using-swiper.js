@@ -36,3 +36,9 @@
   - Parallax |
    [Source](https://github.com/nolimits4web/Swiper/blob/master/demos/360-parallax.html) |
    [Demo](https://swiperjs.com/demos/360-parallax.html)
+
+<br>
+
+### Live Preview
+   
+https://robsonvinicius.github.io/slider-using-swiper.js/
